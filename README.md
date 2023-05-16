@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning a lot of stuff about web development! 
 - 📫 How to reach me: <br>
 -Facebook: https://www.facebook.com/ethan.diasmarques <br>
--LinkedIn: https://www.linkedin.com/in/ethan-dias-marques-75235326a/
+-LinkedIn: https://www.linkedin.com/in/ethan-dias-marques/
 - ⚡ Fun fact: i love SpongeBob Squarepants and i'm not a dinosaure like my pseudo says.
 
 Here are my stats:<br>
