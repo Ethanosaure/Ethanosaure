@@ -10,7 +10,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ethanosaure"><img src="https://github-readme-stats.vercel.app/api?username=ethanosaure&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="ethanosaure's GitHub stats" /></a>
+<a href="http://www.github.com/ethanosaure"><img src="https://github-readme-stats.vercel.app/api?username=ethanosaure&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=1e3a8a&hide_border=true&show_icons=true"/></a>
 <a href="http://www.github.com/ethanosaure"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanosaure&stroke=14b8a6&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 ### Skills 
