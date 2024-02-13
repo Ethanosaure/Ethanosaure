@@ -1,6 +1,6 @@
 ### Hi, I'm Ethan Dias Marques! 👋
 
-- 🔭 I’m currently in formation at becode Charleroi.
+- 🔭 I finished a web dev formation at Becode charleroi
 - 🌱 I’m currently learning a lot of stuff about web development! 
 - 📫 How to reach me: <br>
 -LinkedIn: https://www.linkedin.com/in/ethan-dias-marques/
